@@ -17,7 +17,7 @@ My interests include computational biology, genomics, and data science, with a f
 
 ::: {.hero-image}
 
-![](profile.jpg)
+![](profile.JPG)
 
 :::
 
