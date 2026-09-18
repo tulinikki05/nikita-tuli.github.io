@@ -1,0 +1,84 @@
+---
+title: "Nikita Tuli"
+---
+
+::: {.hero}
+
+::: {.hero-text}
+
+
+**Computational Genomic Medicine | Data Science | Genomics ** 
+
+I am currently pursuing a Master's degree in Computational Genomic Medicine at Case Western Reserve University.
+
+My interests include computational biology, genomics, and data science, with a focus on developing computational and statistical approaches to biomedical research.
+
+::: 
+
+::: {.hero-image}
+
+![](profile.jpg)
+
+:::
+
+:::
+
+::: {.buttons}
+[Download CV](CV.pdf){.cv-button}
+[GitHub](https://github.com/tulinikki05){.social-button}
+:::
+## Education
+
+**Case Western Reserve University**  
+Master of Science in Computational Genomic Medicine  
+2026–2027
+
+**University of Minnesota Twin Cities**  
+Bachelor of Science in Computer Science  
+2023–2026
+
+## Research & Professional Interests
+
+- Computational genomics
+- Biomedical data science
+- Genomic medicine
+- Statistical analysis
+- Computational biology
+
+## Experience & Projects
+
+**Shirley Ryan Ability Lab Hospital**
+
+AI Implementation Intern
+
+- Designed and implemented AI-driven tools to automate administrative and operational workflows in a clinical setting, improving efficiency and allowing staff to focus more on patient care.
+- Created applications that saved an estimated amount $50,000 a year.
+- Partnered with clinical, operational, and technical stakeholders to identify workflow bottlenecks, define system requirements, and support deployment of data-informed solutions.
+
+**Solvay Chemical**
+
+Digital Transformations Intern
+
+- Developed custom digital tools and Power Apps that replaced manual workflows and improved operational efficiency across the Green River facility.
+- Built and trained CNNs using machinery sensor and operational data to support predictive maintenance and reduce unplanned downtime.
+
+**COVID-19 Genome Sequenencing and Alignment Project**
+
+- Analyzed DNA sequence data using bioinformatics techniques to reconstruct and align genomic sequences against the SARS-CoV-2 reference genome.
+- Performed sequence alignment and comparative analysis to identify similarities, differences, and potential mutations relative to the COVID-19 genome.
+-Applied computational methods and data analysis tools to evaluate genomic variation and interpret biological significance.
+
+**Empower VR Project**
+
+- Led a cross-functional team of 10–12 students to develop a VR-based women’s self-defense training application.
+- Designed immersive learning features and coordinated closely with design and engineering teams to ensure cohesive functionality.
+
+## Contact
+
+**Email:** tulinikki05@gmail.com
+
+**GitHub:** [My GitHub](https://github.com/tulinikki05)
+
+## Resume
+
+[Download my CV](CV.pdf)

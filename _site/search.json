@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site has information about me."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nikita Tuli",
+    "section": "",
+    "text": "Computational Genomic Medicine | Data Science | Genomics \nI am currently pursuing a Master’s degree in Computational Genomic Medicine at Case Western Reserve University.\nMy interests include computational biology, genomics, and data science, with a focus on developing computational and statistical approaches to biomedical research."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nikita Tuli",
+    "section": "Education",
+    "text": "Education\nCase Western Reserve University\nMaster of Science in Computational Genomic Medicine\n2026–2027\nUniversity of Minnesota Twin Cities\nBachelor of Science in Computer Science\n2023–2026"
+  },
+  {
+    "objectID": "index.html#research-professional-interests",
+    "href": "index.html#research-professional-interests",
+    "title": "Nikita Tuli",
+    "section": "Research & Professional Interests",
+    "text": "Research & Professional Interests\n\nComputational genomics\nBiomedical data science\nGenomic medicine\nStatistical analysis\nComputational biology"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Nikita Tuli",
+    "section": "Contact",
+    "text": "Contact\nEmail: tulinikki05@gmail.com\nGitHub: My GitHub"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "nikita-tuli.github.io",
+    "section": "",
+    "text": "Hi! My name is Nikita Tuli, and I am currently pursuing a Master’s degree in Computational Genomic Medicine at Case Western Reserve University.\nI am interested in computational biology, genomics, and data science, and I am developing my skills in statistical analysis, programming, and computational approaches to biomedical research."
+  },
+  {
+    "objectID": "index.html#curriculum-vitae",
+    "href": "index.html#curriculum-vitae",
+    "title": "nikita-tuli.github.io",
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\nDownload my CV"
+  },
+  {
+    "objectID": "index.html#experience-projects",
+    "href": "index.html#experience-projects",
+    "title": "Nikita Tuli",
+    "section": "Experience & Projects",
+    "text": "Experience & Projects\nShirley Ryan Ability Lab Hospital\nAI Implementation Intern\n\nDesigned and implemented AI-driven tools to automate administrative and operational workflows in a clinical setting, improving efficiency and allowing staff to focus more on patient care.\nCreated applications that saved an estimated amount $50,000 a year.\nPartnered with clinical, operational, and technical stakeholders to identify workflow bottlenecks, define system requirements, and support deployment of data-informed solutions.\n\nSolvay Chemical\nDigital Transformations Intern\n\nDeveloped custom digital tools and Power Apps that replaced manual workflows and improved operational efficiency across the Green River facility.\nBuilt and trained CNNs using machinery sensor and operational data to support predictive maintenance and reduce unplanned downtime.\n\nCOVID-19 Genome Sequenencing and Alignment Project\n\nAnalyzed DNA sequence data using bioinformatics techniques to reconstruct and align genomic sequences against the SARS-CoV-2 reference genome.\nPerformed sequence alignment and comparative analysis to identify similarities, differences, and potential mutations relative to the COVID-19 genome. -Applied computational methods and data analysis tools to evaluate genomic variation and interpret biological significance.\n\nEmpower VR Project\n\nLed a cross-functional team of 10–12 students to develop a VR-based women’s self-defense training application.\nDesigned immersive learning features and coordinated closely with design and engineering teams to ensure cohesive functionality."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I am currently pursuing a Master’s degree in Computational Genomic Medicine at Case Western Reserve University.\nMy academic interests include computational genomics, biomedical data science, and the application of computational methods to biomedical research."
+  },
+  {
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "About",
+    "section": "Academic Background",
+    "text": "Academic Background\nI previously studied computer science at the University of Minnesota Twin Cities and am continuing to develop my skills in programming, statistical analysis, and computational biology."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nFor professional inquiries, please contact me at:\ntulinikki05@gmail.com"
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "About",
+    "section": "",
+    "text": "This site has information about me."
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Nikita Tuli",
+    "section": "Resume",
+    "text": "Resume\nDownload my CV"
+  }
+]
